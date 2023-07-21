@@ -1,0 +1,126 @@
+Saense 
+INÍCIO
+ 
+ARTIGOS
+ 
+NOTÍCIAS
+ 
+AUTORES
+ 
+FONTES
+ 
+SOBRE
+ 
+CONTATE-NOS
+ 
+Saense 
+INÍCIO
+ 
+ARTIGOS
+ 
+NOTÍCIAS
+ 
+AUTORES
+ 
+FONTES
+ 
+SOBRE
+ 
+CONTATE-NOS
+ 
+ARTIGOS
+“Tragam-nos de volta os gênios!”. E os gênios foram trazidos
+avatar	
+por
+Hendrik Macedo
+publicado em
+11/06/2019
+0
+Hendrik Macedo
+11/06/2019
+
+
+Efeito estilizado de uma fotografia de Salvador Dalí. [1]
+Se existe uma obra artística impossível de tirar da cabeça é a da pintura surrealista “La persistència de la memòria” (1931) do mestre catalão Salvador Domingo Felipe Jacinto Dali i Domènech. Sabe aquela com os relógios derretidos e uma paisagem com mar no horizonte? Tenho ela na mente desde garoto. Um dia fui procurar pela explicação da obra nas palavras do próprio Dalí: “Toda a minha ambição no campo pictórico é materializar as imagens da irracionalidade concreta com a mais imperialista fúria da precisão”. Ah, tá! :/
+
+Agora, imaginem o próprio Dalí e todo o seu jeito bem peculiar de ser e falar, pronunciando essa frase… Na verdade, nem precisamos mais imaginar, podemos vê-lo e ouvi-lo, ao vivo, no Museu Dalí (St. Petersburg, Florida, E.U.A.), pronunciando essa e outras frases bem mais contemporâneas e interagindo conosco; o cara usa até smartphone para tirar uma selfie com os visitantes. Tudo isso é possível graças a uma iniciativa da empresa Goodby Silverstein & Partners of San Francisco (GS&P), que aplicou de forma magistral a tecnologia do Deep Fake à figura de Dalí especialmente para o museu em questão [2] (já escrevi mais detalhadamente sobre o Deep Fake no artigo “A impressionante habilidade de se criar vídeos falsos artificialmente”; confiram lá!). A equipe de desenvolvedores treinou uma rede neuronal convolucional a partir de mais de 6 mil quadros de imagens históricas de Dalí. A Inteligência Artificial treinada aprendeu cada aspecto do rosto e feições do pintor e as sobrepôs no corpo de um ator com características físicas gerais semelhantes. Para fazê-lo falar com autenticidade e desenvoltura sobre temas atuais, sua personalidade foi resgatada a partir de citações extraídas de velhas entrevistas, livros e cartas pessoais. Todo o processo de treinamento do modelo exigiu mais de mil horas de aprendizado de máquina. O resultado são mais de 190 mil diferentes possibilidades de interação com os visitantes; interações essas que chegam a mudar a depender do dia e de aspectos como o clima. No link da citação anterior é possível ver um vídeo do resultado do trabalho. Fantástico!
+
+Quase no mesmo momento em que tomei conhecimento desse trabalho, me deparei com um outro recentemente desenvolvido pelo grupo de pesquisa da OpenAI (Califórnia/E.U.A.): trata-se de um novo algoritmo de aprendizagem profunda, denominado de MuseNet, que consegue gerar automaticamente músicas originais [3]. A coisa é capaz de criar novas composições musicais de 4 minutos de duração fazendo uso de até 10 instrumentos diferentes e combinando diferentes estilos musicais. De acordo com um estilo musical e conjunto de instrumentos desejados pelo usuário, a IA gera a nova música, porém, respeitando o perfil de um determinado compositor. É como se Beethoven acordasse no século 21 e, mantendo sua assinatura musical, criasse uma nova sinfonia numa pegada pop à lá Bon Jovi com uso de bateria e guitarra, ou, o Mozart modificasse progressões de acordes, instrumentos e aplicasse seu estilo à canção “Poker Face” de Lady Gaga, utilizada como ponto de partida. 🙂 A MuseNet consiste de uma rede neuronal de 72 camadas que foi treinada com os kernels recomendados e já otimizados da rede neural profunda Sparse Transformer [4], que foi concebida para ser capaz de prever o que virá em seguida em uma sequência de dados sejam eles do tipo texto, áudio ou imagem. Centenas de milhares de arquivos MIDI de variadas fontes foram coletados para o treinamento da rede que foi ensinada a descobrir padrões de harmonia, ritmo e estilo musical.
+
+Não é preciso muito esforço para perceber as possibilidades maravilhosas da junção dos dois trabalhos acima, certo? Ou sou só eu que gostaria de poder assistir “ao vivo” a uma nova performance de Tom e Elis ou dos Beatles ou de Chopin, com música boa e …original?!
+
+Em seu último pronunciamento público em janeiro de 1989, Dalí disse: “Quando você é um gênio, você não tem o direito de morrer.”. De fato. Sendo assim, diante da possibilidade de corrigirmos o curso das coisas, “ressuscitando” alguns dos maiores gênios que a humanidade já produziu e que tanto nos inspiram ou emocionam, ainda que sob a ameaça concreta da proliferação de montagens sedentas de desgraça alheia e caos, criadas e motivadas por loucos, prefiro que encaremos de frente o risco dessas tecnologias por acreditar que sobre “genialidade” e “loucura”, apesar de bem tênue a linha, somos bem mais numerosos no primeiro lado dela.
+
+[1] Crédito da imagem: Tanya Dobraya, Pixabay License. https://pixabay.com/pt/illustrations/el-salvador-dali-illustrator-889515/.
+
+[2] Goodby Silverstein & Partners, May. 2019, https://goodbysilverstein.com/work/dali-lives-4.
+
+[3] Payne, Christine. “MuseNet.” OpenAI, 25 Apr. 2019, openai.com/blog/musenet.
+
+[4] Child, R., Gray, S., Radford, A., & Sutskever, I. (2019). Generating long sequences with sparse transformers. arXiv preprint arXiv:1904.10509.
+
+Como citar este artigo: Hendrik Macedo. “Tragam-nos de volta os gênios!”. E os gênios foram trazidos. Saense. https://saense.com.br/2019/06/tragam-nos-de-volta-os-genios-e-os-genios-foram-trazidos/. Publicado em 11 de junho (2019).
+
+Artigos de Hendrik Macedo Home
+
+Aprendizado de máquinaDeep fakeHendrik MacedoMúsicaPintura
+FacebookTwitterEmailCompartilhar
+avatar
+Hendrik Macedo
+Doutor em Ciência da Computação. Professor da Universidade Federal de Sergipe. Escreve sobre Inteligência Artificial no Saense.
+Posts created: 41
+
+PUBLICAÇÃO ANTERIOR
+Base de pólen em plataforma internacional gratuita
+
+PUBLICAÇÃO SEGUINTE
+Encontrado DNA do ser humano mais antigo da Escandinávia! E ele gostava de chiclete…
+SUGERIDOS PARA VOCÊ
+Crise e divisão: a eleição para presidente nos Estados Unidos
+avatar	Jornal da USP·10/11/2020
+O nosso senso de direção conta com neurônios – “GPS”
+avatar	Matheus Macedo-Lima·04/01/2017
+Coronavírus viraliza educação online
+avatar	Jornal da USP·23/03/2020
+Gerando energia elétrica a partir da evaporação natural
+avatar	Claudio Macedo·24/10/2017
+AINDA NÃO HÁ COMENTÁRIOS
+DEIXE UM COMENTÁRIO
+O seu endereço de e-mail não será publicado. Campos obrigatórios são marcados com *
+
+Comentário *
+
+Nome * 
+E-mail * 
+Site 
+ Salvar meus dados neste navegador para a próxima vez que eu comentar.
+
+ Sim, adicione-me à sua lista de e-mails.
+
+Esse site utiliza o Akismet para reduzir spam. Aprenda como seus dados de comentários são processados.
+
+CLOSE
+INÍCIO
+ARTIGOS
+NOTÍCIAS
+AUTORES
+FONTES
+SOBRE
+CONTATE-NOS
+
+MENU
+ Início
+ Artigos
+ Notícias
+INFORMAÇÕES
+ Sobre o Saense
+ Contate-nos
+ Autores
+ Fontes
+ saense@saense.com.br
+NEWSLETTER
+Assine gratuitamente a nossa newsletter e receba nossas atualizações
+Email *
+Email *
+ 
+2018 © Todos os direitos reservados a Saense. Desenvolvimento por Softeam

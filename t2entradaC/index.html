@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>CRUD Histórico Universitário</title>
+  
+  <link rel="stylesheet" href="style.css">
+  
+</head>
+<body>
+  <table>
+    <tr>
+      <td>
+        <form autocomplete="off" onsubmit="onFormSubmit()">
+          <div>
+            <label for="codigoDisciplina">Código da Disciplina</label>
+            <input type="text" name="codigoDisciplina" id="codigoDisciplina" placeholder="ex.: MAT001">
+          </div>
+
+          <div>
+            <label for="anoPeriodo" >Ano.Período</label>
+            <input type="text" name="anoPeriodo" id="anoPeriodo" placeholder="ex.: 2022.1">
+          </div>
+
+          <div>
+            <label for="ch">Carga Horária</label>
+            <input type="number" name="ch" id="ch" placeholder="ex.: 60">
+          </div>
+
+          <div>
+            <label for="frequencia">Frequência (%)</label>
+            <input type="text" name="frequencia" id="frequencia" placeholder="80">
+          </div>
+
+          <div>
+            <label for="nota">Nota</label>
+            <input type="text" name="nota" id="nota" placeholder="ex.: 5">
+          </div>
+
+          <div class="form_action--button">
+            <input type="submit" value="Enviar">
+            <input type="reset" value="Cancelar">
+          </div>
+
+        </form>
+
+        <td>
+          <table class="list" id="storeList">
+            <thead>
+              <tr>
+                <th>Código da Disciplina</th>
+                <th>Ano.Período</th>
+                <th>Carga Horária</th>
+                <th>Frequência</th>
+                <th>Nota</th>
+              </tr>
+            </thead>
+            <tbody>
+              
+            </tbody>
+          </table>
+        </td>
+        
+
+      </td>
+    </tr>
+  </table>
+  <button type="button" onclick="mostrarResultados()">
+    Mostrar dados
+  </button>
+  <!-- <div class="showData">
+    <input type="button" value="Mostrar dados">
+  </div> -->
+
+  <div>
+    <td>
+      <table class="list" id="results">
+        <thead>
+          <tr>
+            <th>Tempo de curso (em períodos)</th>
+            <th>Média geral ponderada pela CH</th>
+            <th>Desvio padrão da média geral</th>
+            <th>Lista de disciplinas com aprovação</th>
+            <th>Lista de disciplinas com reprovação</th>
+            <th>Carga horária total cursada</th>
+            <th>Média geral ponderada das disciplinas de cada departamento diferente</th>
+
+          </tr>
+        </thead>
+        <tbody>
+
+        </tbody>
+      </table>
+    </td>
+  </div>
+  <script src="./script.js"></script>
+</body>
+</html>
