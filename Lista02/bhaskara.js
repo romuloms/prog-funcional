@@ -1,6 +1,6 @@
-function bhaskara( a, b, c ) {
+function bhaskara(a, b, c) {
   //const formula = a*(x**2) + b*x + c
-  if( delta<0 ) return undefined
+  if(delta<0) return undefined
   const delta = b**2 - (4*(a*c))
   const raizSoma = (-b + Math.sqrt(delta))/(2*a)
   const raizSubtracao = (-b - Math.sqrt(delta))/(2*a)
@@ -11,4 +11,4 @@ function bhaskara( a, b, c ) {
 
 }
 
-const valores = bhaskara( 1, -5, 6 )
+const valores = bhaskara(1, -5, 6)

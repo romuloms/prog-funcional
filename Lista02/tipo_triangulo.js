@@ -9,8 +9,11 @@ function isTriangulo( a, b, c ) {
 function tipoTriangulo( a, b, c ) {
   const iguaisABC = a==b && b==c
   const diferentesABC = a!=b && a!=c && b!=c
+
   if(iguaisABC) return 'Equilátero'
+
   else if(diferentesABC) return 'Escaleno'
+  
   else return 'Isósceles'
 }
 
